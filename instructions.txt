@@ -47,7 +47,7 @@ Okay now that you are aware of the steps needed, try no 7
 You're eating Javascript, and again....I'm proud of you!
 
 8. Declare a variable called lastName and add a value to it(value must be a string)
-9. Declare a variable called parentsAge and give it a value(value must be a number)
+9. Declare a variable called parentsAge and give it a value of 20(value must be a number)
 10. Create an array with called coolCars and give it the following value: ['BMW','Bugati','Ferrari','McLaren', 'Mercedes']
 
             Now to manipulate the arrays. ;)
@@ -67,4 +67,31 @@ A students Maths mark was 77%,their Physics marks was 70% and their English was 
         79%-70%(message="You average was good, it was ..."),
         69%-50%(message='Your average was okay, it was ..'), 
         49%-0% (message ='You must work harder next time')
-19.
+19. USE the variable that you created in question 9 and use a while loop to print each iteration to the console and at that same instance, increase the variable used by 1
+20. USE while or a do while loop to print out the array of Question15(coolCars).
+21. Create an object called chair and give it a 
+        property of legs and a value of 4,
+        a secondProperty of material with a value of plastic
+22. Write the code that adds a property of 
+        'armRestBars' with a value of 'none' 
+        to the chair object.
+23.1.   What code will I write to view the value of the armRestBars.
+23.2    What code can I use to delete the property of legs with the value of 4.
+
+24. Create an factory function that can be used to return objects of electrical devices.
+        the factory function should include the properties of 
+        name,
+        type,
+        year,
+        description
+24. Create 4 objects of your choice using a factory function and console.log() each of them
+25. Create a constructor function to make an object of different car, types the properties should include,
+        this.brand,
+        this.model,
+        this.year,
+        this.transmission,
+        this.drivetrains
+
+26. Create 4 objects of your own and print to the console all of the created objects.
+27. After, push the 4 objects to an array called 'informationAboutCars'
+
